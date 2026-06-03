@@ -42,7 +42,9 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/archlinux-00002F?style=for-the-badge&logo=archlinux" alt="arch" />
-  <img src="https://img.shields.io/badge/Fortran-%23734C30.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
-  <img src="https://img.shields.io/badge/spotify-001F00?style=for-the-badge&logo=spotify" alt="Spotify" />
+
+  [![Arch](https://img.shields.io/badge/archlinux-00002F?style=for-the-badge&logo=archlinux)](https://archlinux.org/download/)
+  [![Fortran](https://img.shields.io/badge/Fortran-%23734C30.svg?style=for-the-badge&logo=fortran&logoColor=white)](https://fortran-lang.org/fr/)
+
 </div>
+
