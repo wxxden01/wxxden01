@@ -19,22 +19,28 @@
 ---
 
 ## 👾 RETRO POKÉMON SPACE
-
 <p align="center">Parce qu'on ne code jamais seul...</p>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: inline-block; background: #1f242c; padding: 25px; border-radius: 10px; margin: 10px; border: 1px solid #30363d;">
-    <img src="draco.gif" width="160" alt="Draco"/>
-    <br><br>
-    <code>#148 - DRACO</code>
-  </div>
-
-  <div style="display: inline-block; background: #1f242c; padding: 25px; border-radius: 10px; margin: 10px; border: 1px solid #30363d;">
-    <img src="salameche.gif" width="160" alt="Salamèche"/>
-    <br><br>
-    <code>#004 - SALAMÈCHE</code>
-  </div>
-</div>
+<table border="0" cellpadding="0" cellspacing="0" align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <!-- CARTE DRACO -->
+    <td style="border: none; padding: 10px;">
+      <div style="background-color: #1f242c; padding: 25px; border-radius: 10px; border: 1px solid #30363d; text-align: center;">
+        <img src="draco.gif" width="160" alt="Draco"/>
+        <br><br>
+        <code>#148 - DRACO</code>
+      </div>
+    </td>
+    <!-- CARTE SALAMÈCHE -->
+    <td style="border: none; padding: 10px;">
+      <div style="background-color: #1f242c; padding: 25px; border-radius: 10px; border: 1px solid #30363d; text-align: center;">
+        <img src="salameche.gif" width="160" alt="Salamèche"/>
+        <br><br>
+        <code>#004 - SALAMÈCHE</code>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
