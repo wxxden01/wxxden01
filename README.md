@@ -6,7 +6,6 @@
 ---
 
 <img src="arch.gif" height="210" alt="Arch" style="margin: 5px;"/>
-<img src="./spaceship.gif" height="210" alt="Spaceship" style="margin: 5px;"/>
 <img src="404.gif" height="210" alt="404" style="margin: 5px;"/>
 <img src="error.gif" height="210" alt="Error" style="margin: 5px;"/>
 
