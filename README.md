@@ -14,18 +14,18 @@
 ## 👾 
 <div align="center">
   
+  <!-- CARTE DRACO -->
   <kbd style="padding: 20px; background-color: #1f242c; border: 1px solid #30363d; border-radius: 10px; display: inline-block; margin: 10px;">
     <img src="draco.gif" width="200px" alt="Draco"/>
     <br><br>
     <code>#148 - DRACO</code>
-    <br>
   </kbd>
 
-  <kbd style="padding: 20px; background-color: #1f242c; border: 1px solid #30363d; border-radius: 10px; display: inline-block;">
+  <!-- CARTE SALAMÈCHE -->
+  <kbd style="padding: 20px; background-color: #1f242c; border: 1px solid #30363d; border-radius: 10px; display: inline-block; margin: 10px;">
     <img src="salameche.gif" width="200px" alt="Salamèche"/>
     <br><br>
     <code>#004 - SALAMÈCHE</code>
-    <br>
   </kbd>
 
 </div>
@@ -36,6 +36,5 @@
 ## 🎮
 
 <br>
-<img src="gbc.gif" width="450" alt="Game Boy Color"/>
-
+  <img src="gbc.gif" width="450" alt="Game Boy Color"/>
 </div>
