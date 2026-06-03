@@ -23,7 +23,7 @@
 
 <div align="center">
   
-  <kbd style="padding: 20px; background-color: #1f242c; border: 1px solid #30363d; border-radius: 10px; display: inline-block;">
+  <kbd style="padding: 20px; background-color: #1f242c; border: 1px solid #30363d; border-radius: 10px; display: inline-block; margin: 10px;">
     <img src="draco.gif" width="160" alt="Draco"/>
     <br><br>
     <code>#148 - DRACO</code>
