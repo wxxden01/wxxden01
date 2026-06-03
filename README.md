@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wxxden01/wxxden01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Ton GIF principal / Bannière -->
+<img src="1.gif" width="auto" height="400px" alt="Bannière principale"/>
 
-Here are some ideas to get you started:
+#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<!-- Alignement horizontal de tes GIFs Pokémon -->
+<table border="0" align="center">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="draco.gif" width="180" alt="Draco"/>
+      <p><i>#148 - Draco</i></p>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="salameche.gif" width="180" alt="Salamèche"/>
+      <p><i>#004 - Salamèche</i></p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+#
+<img src="gbc.gif" width="100%" alt="gbc"/>
